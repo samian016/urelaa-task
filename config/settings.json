@@ -4,5 +4,5 @@
     "*",
     "http://localhost:3000",
   ],
-  "useHTTP2": true
+  "useHTTP2": false
 }
