@@ -1,0 +1,16 @@
+{
+  "port": 9998,
+  "origin": [
+    "http://localhost:3000",
+    "https://projects.coredevs.ltd",
+    "http://projects.coredevs.ltd"
+  ],
+  "useHTTP2": false,
+  "SMTP_HOST": "smtp.gmail.com",
+  "SMTP_PORT": 465,
+  "SMTP_USER": "parvejhossain4567@gmail.com",
+  "EMAIL_NAME": "Clickdown",
+  "EMAIL_FROM": "from@example.com",
+  "SMTP_PASSWORD": "rnlnbpknvcuprnpe",
+  "secret": "hkwaya7wyrc3h4c98u"
+}
