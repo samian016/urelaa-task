@@ -1,3 +1,11 @@
-# Rest api Boilerplate
+# run code 
+"yarn" to install dependicies
+"yarn dev" to run server
 
-A framework like boilerplate on top of express.js, socketio, mongodb
+# Admin user
+#### email: walidbinjashim@gmail.com
+#### password: samian016
+
+# Customer user
+#### email: customer@gmail.com
+#### password:customer016
