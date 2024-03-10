@@ -1,5 +1,5 @@
 # run code 
-"yarn" to install dependicies
+"yarn" to install dependicies, 
 "yarn dev" to run server
 
 # Admin user
@@ -9,3 +9,5 @@
 # Customer user
 #### email: customer@gmail.com
 #### password:customer016
+
+### check postman collection to import in postman
