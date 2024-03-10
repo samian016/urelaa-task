@@ -3,8 +3,6 @@
   "origin": [
     "*",
     "http://localhost:3000",
-    "https://projects.coredevs.ltd",
-    "http://projects.coredevs.ltd"
   ],
   "useHTTP2": true
 }
